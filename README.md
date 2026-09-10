@@ -14,6 +14,18 @@ Console client for Evernote.
 x install geeknote
 ```
 
+## Code insight
+
+Total: **5,239** lines of code across **28** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 5,109 | 268 | 1,030 | 24 |
+| Ruby | 95 | 1 | 25 | 1 |
+| Yaml | 14 | 0 | 3 | 1 |
+| Ini | 13 | 0 | 3 | 1 |
+| Autoconf | 3 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jeffkowalski/geeknote>
@@ -23,7 +35,6 @@ x install geeknote
 
 - **Latest**: `v2.0.21` (2021-02-07)
 - **Last commit**: 2024-04-25
-- **Published**: 2021-02-07T00:18:20Z
 
 ## Popularity
 
@@ -38,28 +49,19 @@ x install geeknote
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **5,239** lines of code across **28** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 5,109 | 268 | 1,030 | 24 |
-| Ruby | 95 | 1 | 25 | 1 |
-| Yaml | 14 | 0 | 3 | 1 |
-| Ini | 13 | 0 | 3 | 1 |
-| Autoconf | 3 | 0 | 0 | 1 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
 Install metadata for geeknote lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `geeknote` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/geeknote.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/geeknote.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:28:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:44:08Z._
